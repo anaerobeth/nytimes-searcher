@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NYTimesSearch</string>
+    <string name="search">Search</string>
+    <string name="go">Go</string>
+</resources>
